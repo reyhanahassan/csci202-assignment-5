@@ -1,0 +1,32 @@
+BODY{
+  background: url("making-muffins.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  padding:0;
+  margin:auto;
+  background-size:cover;
+
+      
+}
+H3{
+    -webkit-text-stroke: 1px black; 
+    font-family: "DM Serif Display";
+    font-style: bold;
+    font-size: 70px;
+    color:rgb(201, 219, 181)
+}
+TEXTAREA{
+    background-color:rgb(248, 233, 205);
+    color:rgb(69, 49, 35)
+}
+TABLE{
+}
+
+H4{
+    font-size: 8px;
+    font-family: "Martian Mono";
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+}
